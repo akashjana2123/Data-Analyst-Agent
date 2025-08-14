@@ -20,3 +20,4 @@ pyarrow
 tabulate
 html5lib
 duckdb
+gunicorn
